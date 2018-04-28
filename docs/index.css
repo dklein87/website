@@ -1,0 +1,62 @@
+body {
+  font-size: 1.5em;
+}
+.main {
+  display: grid;
+  grid-gap: 5px;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr;
+  height: 100vh;
+  width: 100vw;
+}
+.one {
+   
+  grid-area: 1/1/4/4;
+  background-image: url(http://gminya1.pl/wp-content/uploads/zdjecia/Starogard1.jpg);
+  background-size:contain;
+  background-position: top left;
+  }
+
+.link{
+  margin: 250px;
+  text-align: center;
+  }
+
+.two {
+  grid-area:1/4/5/6;
+  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/POL_Starogard_Gda%C5%84ski_COA.svg/750px-POL_Starogard_Gda%C5%84ski_COA.svg.png);
+  background-size:cover;
+  background-position: top left;
+}
+.three {
+  grid-area:4/1/7/3;
+  background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Starogard_Palac_Wiechertow.jpg/1200px-Starogard_Palac_Wiechertow.jpg); 
+  background-size:cover;
+ 
+}
+.four {
+  grid-area:4/3/5/4;
+background-image: url(http://gminya1.pl/wp-content/uploads/zdjecia/Starogard2.jpg);
+}
+.five {
+  grid-area:5/3/7/6;
+  background-image: url(http://www.muzeum-kociewie.gda.pl/aktualnosci/2015/powystawowe_starogard_okolice/FRONT.jpg);
+  background-size:cover;
+  background-position: top left;
+}
+
+.main > div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+@media screen and (max-width: 600px) {
+  .main {
+    display: block;
+  }
+  .main > div {
+    height: 200px;
+  }
+}
+

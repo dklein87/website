@@ -1,5 +1,4 @@
-#Przykladowa strona
+# Moje HTML
 
-Witaj na mojej testowej stronie.
-Strona tworzona jest przy uzyciu prawdopodobnie najlepszego poradnika we wszechswiecie, mianowicie "Learn Enough Git to Be Dangerous".
-Dzieki :)
+* [Starogard](https://github.com/dklein87/website/blob/master/asciidoc.adoc) .
+* [Moj HTML Starogard](https://dklein87.github.io/website/) .
