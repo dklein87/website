@@ -1,9 +1,6 @@
 = **_Witajcie w Starogardzie !!!_**
 
-image:: //do wrzucenia zdjecia
-
-https://starogard.pl/wp-content/uploads/2015/04/logo.png[Starogard]
-
+image::DSC08899-Starogard-Gdanski-20170729-fburl.jpg
 
 == Wazne linki:
 
