@@ -1,6 +1,7 @@
 = **_Witajcie w Starogardzie Gdańskim!!!_**
 
-image:DSC08899-Starogard-Gdanski-20170729-fburl.jpg[DSC08899-Starogard-Gdanski-20170729-fburl,800,600]
+image::DSC08899-Starogard-Gdanski-20170729-fburl.jpg[DSC08899-Starogard-Gdanski-20170729-fburl,800]
+Fot. 1. Ratusz w starogardzie Gdańskim
 
 == Wazne linki:
 
