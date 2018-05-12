@@ -3,15 +3,6 @@
 image::DSC08899-Starogard-Gdanski-20170729-fburl.jpg[DSC08899-Starogard-Gdanski-20170729-fburl,800]
 Fot. 1. Ratusz w Starogardzie Gdańskim
 
-== Wazne linki:
-
-* [x] <https://starogard.pl>
-
-* [x] <http://www.kociewiak.pl>
-
-* [x] <http://starogardgdanski.naszemiasto.pl>
-
-
 == Podstawowe informacje:
 
 ** Wysokosc - 99 m n.p.m.
@@ -25,3 +16,11 @@ Fot. 1. Ratusz w Starogardzie Gdańskim
 | Ludność ogółem	| 44 849
 | gestosc zaludnienia | 1910,9 os./km2
 |===
+
+== Wazne linki:
+
+* [x] <https://starogard.pl>
+
+* [x] <http://www.kociewiak.pl>
+
+* [x] <http://starogardgdanski.naszemiasto.pl>
