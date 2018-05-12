@@ -12,8 +12,7 @@ body {
 }
 
 .one {
-  text-color: #808080;
-  grid-area: 1/1/4/4;
+   grid-area: 1/1/4/4;
   background-image: url(http://gminya1.pl/wp-content/uploads/zdjecia/Starogard1.jpg);
   background-size:contain;
   background-position: top left;
@@ -21,7 +20,9 @@ body {
 
 .link{
   margin: 250px;
+  text-color: #808080;
   text-align: center;
+  background-color: #000000;
   }
 
 .two {
