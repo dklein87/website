@@ -29,7 +29,7 @@ body {
 
 .two {
   grid-area:1/4/5/6;
-  background-image: url(https://unsplash.com/photos/o_yspyX_8yE);
+  background-image: url(https://pixabay.com/photo-3339811/);
     background-size: cover;
 }
 
