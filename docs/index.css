@@ -51,6 +51,8 @@ body {
 .five {
   grid-area:5/3/7/6;
   background-image: url(http://kociewiacy.pl/gminy/starogard_gdanski/images/stories/Image/-Starogard_retro.jpg);
+  /* foto pochodzi ze strony 
+  http://kociewiacy.pl/gminy/starogard_gdanski/index.php?option=com_content&task=view&id=468&Itemid=78 */
   background-size: cover;
   background-position: center; 
 }
