@@ -1,6 +1,10 @@
 = **_Witajcie w Starogardzie Gdańskim !!!_**
 
+<<<<<<< HEAD
 image:: //do wrzucenia zdjecia
+=======
+image::DSC08899-Starogard-Gdanski-20170729-fburl.jpg
+>>>>>>> 133672a8013b7f81a7e2f8c5eb57fa674b01d936
 
 == Wazne linki:
 
