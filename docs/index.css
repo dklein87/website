@@ -13,8 +13,7 @@ body {
 .one {
    grid-area: 1/1/4/4;
   background-image: url(http://gminya1.pl/wp-content/uploads/zdjecia/Starogard1.jpg);
-  background-size:contain;
-  background-position: top left;
+    background-size: cover;
   }
 
 .link{
