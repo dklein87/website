@@ -1,5 +1,4 @@
 body {
-  font: Helvetica, sans-serif;
   font-size: 1.5em;
 }
 .main {
@@ -20,9 +19,11 @@ body {
 
 .link{
   margin: 250px;
+  font: Helvetica, sans-serif;
   text-color: #808080;
   text-align: center;
-  background-color: #000000;
+  background-color: #FFFFFF;
+  opacity: 0.5;
   }
 
 .two {
