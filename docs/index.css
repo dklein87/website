@@ -38,7 +38,7 @@ body {
 }
 .four {
   grid-area:4/3/5/4;
-background-image: url(http://gminya1.pl/wp-content/uploads/zdjecia/Starogard2.jpg);
+background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/POL_Starogard_Gda%C5%84ski_COA.svg/200px-POL_Starogard_Gda%C5%84ski_COA.svg.png);
 }
 .five {
   grid-area:5/3/7/6;
