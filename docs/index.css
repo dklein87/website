@@ -10,21 +10,20 @@ body {
   width: 100vw;
 }
 
-.one {
-   grid-area: 1/1/4/4;
-  background-image: url(http://gminya1.pl/wp-content/uploads/zdjecia/Starogard1.jpg);
-    vertical-align: middle;
-    background-size: cover;
-    </div> 
-  
-  }
-
 .link{
   font-family: Helvetica, Sans-Serif;
   text-color: #808080;
   text-align: center;
   background-color: #FFFFFF;
   opacity: 0.5;
+  }
+
+.one {
+   grid-area: 1/1/4/4;
+  background-image: url(http://gminya1.pl/wp-content/uploads/zdjecia/Starogard1.jpg);
+    vertical-align: middle;
+    background-size: cover;
+    </div> 
   }
 
 .two {
