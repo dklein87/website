@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 = **_Witajcie w Starogardzie Gdańskim !!!_**
 
 <<<<<<< HEAD
@@ -13,7 +14,13 @@ image::DSC08899-Starogard-Gdanski-20170729-fburl.jpg
 * [x] <http://www.kociewiak.pl>
 
 * [x] <http://starogardgdanski.naszemiasto.pl>
+=======
+= **_Witajcie w Starogardzie Gdańskim!!!_**
+>>>>>>> ae4d22be1de6c60d4ade0c218c9e863672cd904a
 
+image::DSC08899-Starogard-Gdanski-20170729-fburl.jpg[DSC08899-Starogard-Gdanski-20170729-fburl,800]
+Fot. 1. Ratusz w Starogardzie Gdańskim +
+Źródło: https://www.ruszajwdroge.pl/2017/08/Starogard-Gdanski-w-1-dzien.html
 
 == Podstawowe informacje:
 
@@ -28,3 +35,11 @@ image::DSC08899-Starogard-Gdanski-20170729-fburl.jpg
 | Ludność ogółem	| 44 849
 | gestosc zaludnienia | 1910,9 os./km2
 |===
+
+== Wazne linki:
+
+* [x] <https://starogard.pl>
+
+* [x] <http://www.kociewiak.pl>
+
+* [x] <http://starogardgdanski.naszemiasto.pl>

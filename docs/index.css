@@ -1,5 +1,7 @@
 body {
   font-size: 1.5em;
+  margin: 0 auto;
+  
 }
 .main {
   display: grid;
@@ -9,40 +11,52 @@ body {
   height: 100vh;
   width: 100vw;
 }
-.one {
-   
-  grid-area: 1/1/4/4;
-  background-image: url(http://gminya1.pl/wp-content/uploads/zdjecia/Starogard1.jpg);
-  background-size:contain;
-  background-position: top left;
+
+.link {
+  margin: 0 auto;
+  font-family: Helvetica, Sans-Serif;
+  text-color: #808080;
+  text-align: center;
+  background-color: #FFFFFF;
+  opacity: 0.5;
   }
 
-.link{
-  margin: 250px;
-  text-align: center;
+.one {
+   grid-area: 1/1/4/4;
+    background-image: url(http://gminya1.pl/wp-content/uploads/zdjecia/Starogard1.jpg);
+    background-size: cover;
+    background-position: center; 
+    </div> 
   }
 
 .two {
   grid-area:1/4/5/6;
-  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/POL_Starogard_Gda%C5%84ski_COA.svg/750px-POL_Starogard_Gda%C5%84ski_COA.svg.png);
-  background-size:cover;
-  background-position: top left;
+  background-image: url(https://eholiday.smcloud.net/mapy/zdjecia/big/starogard_gdanski-358.jpg);
+  background-size: cover;
+  background-position: center; 
 }
+
 .three {
   grid-area:4/1/7/3;
   background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Starogard_Palac_Wiechertow.jpg/1200px-Starogard_Palac_Wiechertow.jpg); 
-  background-size:cover;
+  background-size:cover; 
+  background-position: center; 
  
 }
 .four {
   grid-area:4/3/5/4;
-background-image: url(http://gminya1.pl/wp-content/uploads/zdjecia/Starogard2.jpg);
+  background-image: url(https://www.stockvault.net/data/2010/10/22/115505/preview16.jpg);
+  background-size: cover;
+  background-position: center; 
 }
+
 .five {
   grid-area:5/3/7/6;
-  background-image: url(http://www.muzeum-kociewie.gda.pl/aktualnosci/2015/powystawowe_starogard_okolice/FRONT.jpg);
-  background-size:cover;
-  background-position: top left;
+  background-image: url(http://kociewiacy.pl/gminy/starogard_gdanski/images/stories/Image/-Starogard_retro.jpg);
+  /* foto pochodzi ze strony 
+  http://kociewiacy.pl/gminy/starogard_gdanski/index.php?option=com_content&task=view&id=468&Itemid=78 */
+  background-size: cover;
+  background-position: center; 
 }
 
 .main > div {
@@ -51,6 +65,7 @@ background-image: url(http://gminya1.pl/wp-content/uploads/zdjecia/Starogard2.jp
   justify-content: center;
   text-align: center;
 }
+
 @media screen and (max-width: 600px) {
   .main {
     display: block;
@@ -58,5 +73,4 @@ background-image: url(http://gminya1.pl/wp-content/uploads/zdjecia/Starogard2.jp
   .main > div {
     height: 200px;
   }
-}
 
