@@ -1,20 +1,3 @@
-<<<<<<< HEAD
-= **_Witajcie w Starogardzie Gdańskim !!!_**
-
-<<<<<<< HEAD
-image:: //do wrzucenia zdjecia
-=======
-image::DSC08899-Starogard-Gdanski-20170729-fburl.jpg
->>>>>>> 133672a8013b7f81a7e2f8c5eb57fa674b01d936
-
-== Wazne linki:
-
-* [x] <https://starogard.pl>
-
-* [x] <http://www.kociewiak.pl>
-
-* [x] <http://starogardgdanski.naszemiasto.pl>
-=======
 = **_Witajcie w Starogardzie Gdańskim!!!_**
 >>>>>>> ae4d22be1de6c60d4ade0c218c9e863672cd904a
 
